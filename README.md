@@ -1,2 +1,2 @@
-# -koln-projekty
+# -skolni-projekty
 1.
